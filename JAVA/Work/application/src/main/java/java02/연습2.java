@@ -8,7 +8,14 @@ public class 연습2 {
         int z = 5;
         int a = 1;
         int b = 2;
+        int o = 3.1441;
+        
+        int 3.1441= 
        
+        
+        
+        
+        
         System.out.println(x);
         System.out.println(y);
         System.out.println(z);
