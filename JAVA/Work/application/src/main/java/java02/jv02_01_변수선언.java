@@ -13,7 +13,6 @@ public class jv02_01_변수선언 {
     System.out.println( c );
     System.out.println( i );
     System.out.println( d );
-
     
     b = false;
     c = 'A';
@@ -24,8 +23,6 @@ public class jv02_01_변수선언 {
     System.out.println( c );
     System.out.println( i );
     System.out.println( d );
-
     
-    }
-    
+    }   
 }

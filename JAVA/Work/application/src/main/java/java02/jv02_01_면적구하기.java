@@ -12,14 +12,13 @@ public class jv02_01_면적구하기 {
         
         int soso=2*(w+h);
         
-        int babo= hook+soso;
+     
         
         
         
         System.out.println("넓이:" + hook );
         System.out.println("둘레:" + soso);
-        System.out.println("넓이+둘레" + babo);
-      
+
         
         
     }

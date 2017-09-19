@@ -21,7 +21,6 @@ public class jv03_02_ifelse {
             System.out.println("장학금을 받을 수 없습니다.");
         }
         
-   
             
     }      
 }

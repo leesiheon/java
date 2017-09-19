@@ -16,8 +16,9 @@ public class java_01_01_hello {
         System.out.print("\n");
         System.out.println("");
         System.out.println(); // == System.out.println("");
+       
         
-        System.out.format("내 이름 %s 나이%d", "sejoong", 132);
+        System.out.format("내 이름 %s 나이%d", "sejoong", 32);
         
         
     

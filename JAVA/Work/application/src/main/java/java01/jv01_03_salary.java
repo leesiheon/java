@@ -10,7 +10,6 @@ public class jv01_03_salary {
     
     Scanner Keyboard = new Scanner(System.in);
     System.out.println("월급을 입력하시오");
-    
     salary = Keyboard.nextInt(); //값을 입력 받아 변수에 저장
     
     deposit = 10*12*salary;
