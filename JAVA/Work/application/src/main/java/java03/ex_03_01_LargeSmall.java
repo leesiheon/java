@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ex_03_01_LargeSmall {
     public static void main (String[] args){
-        int n = 101;
+        int n = 0;
         
         Scanner keyboard = new Scanner(System.in);
         System.out.print("점수입력:");
@@ -14,7 +14,7 @@ public class ex_03_01_LargeSmall {
         if (n >=100){
             System.out.println("large");
         } else  {
-            System.out.println("samll");
+            System.out.println("small");
         }
     }
 }

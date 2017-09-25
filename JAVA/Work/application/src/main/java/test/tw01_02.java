@@ -12,15 +12,16 @@ public class tw01_02 {
         //Scanner를 이용하여 정수를 입력 받고 출력하시오
         
         
-        int x = keyboard.nextInt();
+        
         System.out.println("정수를 입력:");
+        int x = keyboard.nextInt();
         
  
         
         //Scanner를 이용하여 문자열을 입력 받고 출력하시오
-        String y; 
-        y = keyboard.next();
         System.out.println("문자열 입력:");
+        String y = keyboard.next();
+      
         
         
       
